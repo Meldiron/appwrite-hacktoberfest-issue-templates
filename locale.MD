@@ -6,7 +6,7 @@
 
 Did you know Appwrite's Locale API has support for returning responses in your own locale based on the value of the `X-Appwrite-Locale` header? 😮 We already support 56 languages and need your help to push it even further! 💪
 
-Your task is to translate the Appwrite's templates into **{{name}}** language. You can find a complete in-depth tutorial in our official [tutorial for adding translations](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/add-translations.md).
+Your task is to translate Appwrite's templates into **{{name}}** language. You can find a complete in-depth tutorial in our official [tutorial for adding translations](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/add-translations.md).
 
 ### Tasks summary:
 

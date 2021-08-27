@@ -49,9 +49,13 @@ if (problematicLangages.length > 0) {
 }
 
 // Find missing languages
-const missingLanguages = languagesArray.filter(
- (language) => !supportedLanguages.includes(language.code)
-);
+const missingLanguages = languagesArray.filter((language) => {
+ const supportedLanguage = supportedLanguages.find((languageCode) =>
+  languageCode.startsWith(language.code)
+ );
+
+ return supportedLanguage ? false : true;
+});
 
 console.log(`Found ${missingLanguages.length} missing languages`);
 console.log("Generating issues ...");
