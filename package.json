@@ -1,0 +1,24 @@
+{
+  "name": "hacktoberfest",
+  "version": "1.0.0",
+  "description": "[Locale issue](locale.MD) [Oauth issue](oauth.MD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meldiron/appwrite-hacktoberfest-issue-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meldiron/appwrite-hacktoberfest-issue-templates/issues"
+  },
+  "homepage": "https://github.com/Meldiron/appwrite-hacktoberfest-issue-templates#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "handlebars": "^4.7.7"
+  }
+}
