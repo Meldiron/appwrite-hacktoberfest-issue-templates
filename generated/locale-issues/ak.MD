@@ -1,4 +1,4 @@
-# Help Translate Appwrite to {{name}} Language ✍️
+# Help Translate Appwrite to Akan Language ✍️
 
 ---
 
@@ -6,12 +6,12 @@
 
 Did you know Appwrite's Locale API has support for returning responses in your own locale based on the value of the `X-Appwrite-Locale` header? 😮 We already support 56 languages and need your help to push it even further! 💪
 
-Your task is to translate Appwrite into **{{name}}** language. You can find a complete in-depth tutorial in our official [tutorial for adding translations](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/add-translations.md).
+Your task is to translate Appwrite's templates into **Akan** language. You can find a complete in-depth tutorial in our official [tutorial for adding translations](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/add-translations.md).
 
 ### Tasks summary:
 
 - [ ] Fork & clone Appwrite
-- [ ] Generate translations for {{name}} in `app/config/locale/translations/{{code}}.json`
+- [ ] Generate translations for Akan in `app/config/locale/translations/ak.json`
 - [ ] Add language as supported into `app/config/locale/codes.php`, if not already presented
 - [ ] Add language as supported into `app/init.php`, if not already presented
 - [ ] Test the translations
