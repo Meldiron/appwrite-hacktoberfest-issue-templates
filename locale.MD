@@ -1,4 +1,4 @@
-# Help Translate Appwrite to {{name}} Language ✍️
+# Help Translate Appwrite to {{name}} language ✍️
 
 ---
 
@@ -20,3 +20,5 @@ Your task is to translate Appwrite into **{{name}}** language. You can find a co
 If you need any help, reach out to us on our [Discord server](https://discord.gg/GSeTUeA).
 
 Are you ready to work on this issue? 🤔 Let us know, and we will assign it to you 😊
+
+**Happy Appwriting!**
